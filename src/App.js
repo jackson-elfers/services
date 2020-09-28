@@ -9,9 +9,9 @@ function App() {
     <div>
       <h1>UI/UX</h1>
       <div>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>React</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>Angular</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>Vue</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>React</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>Angular</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>Vue</h1>
       </div>
       
       <div className="box">
@@ -23,9 +23,9 @@ function App() {
       </div>
       
       <h1>Servers</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>Node</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>Java</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>Python</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>Node</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>Java</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>Python</h1>
       
       <div className="box">
         <h2>Fast and Scalable servers built for Modern Traffic and Flexible Business Plans.</h2>
@@ -36,9 +36,9 @@ function App() {
       </div>
       
       <h1>Databases</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>MySQL</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>MongoDB</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>DynamoDB</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>MySQL</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>MongoDB</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>DynamoDB</h1>
       
       <div className="box">
         <h2>Quick Access met with Robust Security to meet all customer demands.</h2>
@@ -50,9 +50,9 @@ function App() {
       </div>
       
       <h1>Mobile</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>Android</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>IOS</h1>
-      <h1 style = {{ "text-align": "center", "font-size": "75px" }}>Ionic</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>Android</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>IOS</h1>
+      <h1 style = {{ "text-align": "center", "font-size": "50px" }}>Ionic</h1>
       
       <div className="box">
         <h2>Reaching all your Customers accross a Range of Devices.</h2>
