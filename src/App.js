@@ -4,7 +4,7 @@ import './styles';
 import Snowflakes from "magic-heartflakes";
 
 function App() {
-  Snowflakes();
+  //Snowflakes();
   return (
     <div>
       <h1>UI/UX</h1>
@@ -41,7 +41,7 @@ function App() {
       <h1 style = {{ "text-align": "center", "font-size": "50px" }}>DynamoDB</h1>
       
       <div className="box">
-        <h2>Quick Access met with Robust Security to meet all customer demands.</h2>
+        <h2>Quick Access met with Robust Security to meet all Customer Demands.</h2>
         <p>
         Modern day customers require lightning fast access to their data with only the 
         highest level of security. Providing only the best database technologies for your 
@@ -63,7 +63,7 @@ function App() {
         </p>
       </div>
       
-      <img src = "./heart.png" alt = "A large pink heart."/>
+      <img src = "./bonfire.gif" alt = "A large pink heart."/>
       
       <div className="box">
         <h2>Let's bring your Platform to Life.</h2>
